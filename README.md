@@ -2,11 +2,6 @@
 
 An end-to-end pipeline that scrapes blogs for a given keyword, processes and analyzes them using NLP techniques, and generates AI-powered insights — wrapped in a futuristic Streamlit dashboard.
 
-<!-- 
-📸 ADD YOUR MAIN DASHBOARD SCREENSHOT HERE
-Example: ![Dashboard Screenshot](screenshots/dashboard.png)
--->
-![Dashboard Screenshot](screenshots/dashboard.png)
 
 ## 🚀 Features
 
@@ -20,11 +15,7 @@ Example: ![Dashboard Screenshot](screenshots/dashboard.png)
 - **Interactive Visualizations** — Plotly-powered sentiment distribution, motive breakdown, and score histograms, plus a neon-styled word cloud
 - **Streamlit Frontend** — a full HUD-style dashboard to run the entire pipeline from the browser
 
-<!-- 
-📸 ADD A SCREENSHOT OF THE VISUALIZATIONS SECTION HERE
-Example: ![Visualizations](screenshots/visualizations.png)
--->
-![Visualizations](screenshots/visualizations.png)
+<img width="1600" height="434" alt="image" src="https://github.com/user-attachments/assets/5a8df9d0-f33c-4f09-83c1-23abddeddbd9" />
 
 ## 🗂️ Project Structure
 
